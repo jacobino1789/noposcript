@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        NoPodemos
+// @name        noposcript
 // @namespace   http://www.lalala.la/
-// @version     0.1.0.0
+// @version     0.1.0.1
 // @description Marcar noticias sobre Podemos
 // @match       https://www.meneame.net/*
 // @updateURL   https://raw.github.com/jacobino1789/noposcript/master/nopo.user.js
